@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o André Luiz
 
-- 🔭 Estou procurando uma vaga como Programador Jr Flutter
+- 🔭 Estou procurando uma vaga como Programador Flutter
 - 🌱 Estudando Dart/Flutter 
 
 <div align="center">
